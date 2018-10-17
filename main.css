@@ -1,0 +1,22 @@
+@charset "utf-8";
+
+
+/*Block level element demo*/
+
+/* li {
+    display: inline-block;
+    height: 40px;
+} */
+.pull-left {
+    float: left;
+}
+
+.pull-right {
+    float: right;
+    height: 50px;
+}
+
+.clear {
+    display: block;
+    clear: right;
+}
